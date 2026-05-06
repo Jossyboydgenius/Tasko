@@ -1,2 +1,2 @@
 ## Tasko
-Modern-Task-Management-Dashboard
+Modern Task Management Dashboard
