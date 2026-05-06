@@ -1,3 +1,4 @@
 ## Tasko
 Modern Task Management Dashboard
-* Analytics 
+* Analytics
+* Inventory 
